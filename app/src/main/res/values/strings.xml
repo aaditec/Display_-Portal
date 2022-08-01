@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SplashScreenWithLogIn</string>
+    <string name="splash">Welcome to Display Portal</string>
+    <string name="log">Login</string>
+    <string name="forget">Forget Password?</string>
+    <string name="email">Email</string>
+    <string name="pass">password</string>
+    <string name="username">username</string>
+    <string name="text1">Ramlaxman innovations is providing automation service since 18 years. We are facilitating Nepalese and International customers through different products. As of now Nepal is currently facing various problems related to security issues like theft, robbery and loot. Emerging innovative ideas from twin young researcher Ram and Laxman, we are now developing and serving Wireless Community Alarm System, Automatic Sliding Sensor Gate, Bank Security System, Access Control System, and Door lock. Our list of other products includes: Mobile attendance system, Automatic motor operator, E-Notice Board, Nepali voting machine, public bus and taxi tracking system etc. As well as we do provide lifetime warranty and guarantee*and replacement warranty and guarantee* of each and every products. All of these products are designed and developed in Nepal. Our customer responses towards our products are satisfactory. We supervise the working condition of our products daily, monthly, semiannually or annually in accordance with the needs of our products and demand of customers. We have approximately 2 millions customers. Nabil bank, Nepal police, United academy, Employees Provident Fund, Himalaya TV, Citizens bank, Naya patrika, Mero job etc are some of our major clients.</string>
+    <string name="video_title">Video Title</string>
+    <string name="heading">Heading Title</string>
+    <string name="text">Imagee_Heading</string>
+</resources>
